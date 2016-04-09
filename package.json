@@ -1,0 +1,9 @@
+{
+  "name": "statics",
+  "description": "Centralize your static data",
+  "version": "0.0.1",
+  "main": "./js/src/index",
+  "dependencies": {
+    "store": "aleclarson/store#0.0.1"
+  }
+}
